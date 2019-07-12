@@ -1,0 +1,12 @@
+{
+  "name": "scalable-node-app-example",
+  "version": "1.0.0",
+  "description": "scalable-node-app-example",
+  "main": "src/index.js",
+  "author": "John Susek",
+  "license": "ISC",
+  "repository": {},
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
